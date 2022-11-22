@@ -1,6 +1,5 @@
 import './style.css'
 
-
 document.querySelector('#app').innerHTML = `
   <div>
     <h1>Draw your minds out</h1>
